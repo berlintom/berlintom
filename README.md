@@ -4,8 +4,11 @@
 <p>Based in Berlin, I was Head of the Marketing Department at a subscription-based software company. The exposure to developers in my workplace, and my experience of working alongside them on Marketing projects piqued my interest in this field. I was compelled to follow this curiosity, which lead to completing a 9-Week Full-Time WebDev Bootcamp at LeWagon! I absolutely loved the experience and am excited for my future in this field! Feel free to reach out. <p>
 
 - 🔭 I’m currently working on an inclusive Ping Pong mobile WebApp called [FLiQ](https://www.fliq.community)
-- 🏓 [FLiQ GitHub Repo](https://bit.ly/fliq-gh)
   
+<p align="center"><img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5c7c7c04-abab-405a-9757-8d6cb84682f3%2Fcollage_fliq.jpeg?table=block&id=509c7bcd-bec4-4a03-ac01-0e181805e9f7&spaceId=8e82678b-065f-4cb1-8ae2-093382298d03&width=2000&userId=fa18661e-ffaf-40f4-a1f0-2a669a28695c&cache=v2" alt="FLiQ" width="450" height="450"/></a>
+
+- 🏓 [FLiQ GitHub Repo](https://bit.ly/fliq-gh)
+
 - 🌱 I’m currently learning **Ruby, Ruby on Rails, JS**
 
 - 📫 How to reach me **sayhitothomas@gmail.com**
