@@ -1,4 +1,4 @@
-<h1 align="center">Welcome!👋 My name is Thomas (Tom)</h1>
+<h1 align="center">Welcome!👋 My name is Tom</h1>
 <h3 align="center">I'm rather new to this world, but very curious and always learning.</h3>
 
 <p>Based in Berlin, I was Head of the Marketing Department at a subscription-based software company. The exposure to developers in my workplace, and my experience of working alongside them on Marketing projects piqued my interest in this field. I was compelled to follow this curiosity, which lead to completing a 9-Week Full-Time WebDev Bootcamp at LeWagon! I absolutely loved the experience and am excited for my future in this field! Feel free to reach out. <p>
